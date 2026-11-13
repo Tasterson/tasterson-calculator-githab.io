@@ -1,2 +1,2 @@
-# tasterson-calculator-githab.io
+# calculator
 My second project on GitHub
